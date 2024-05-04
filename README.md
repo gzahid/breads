@@ -7,8 +7,8 @@ run "npm install"
 run "nodemon"
  http://localhost:3003/
 
-## to see all breeds
+## to see all breads
  http://localhost:3003/breads
 
-## to see breeds
+## to see a bread
  http://localhost:3003/breads/1
